@@ -2,7 +2,8 @@
 
 ### Dataset URL:
 
-http://insideairbnb.com/new-york-city/, https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
+http://insideairbnb.com/new-york-city/, 
+https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
 
 ### Introduction:
 
